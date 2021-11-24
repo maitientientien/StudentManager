@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+C:\Users\DELL\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Form1.resources
