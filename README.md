@@ -11,4 +11,4 @@ Main function:
 
 Architectural model: 3 layers
 
-List of compoent/packacge : Gui_QLSV, BUSQLSV, DTO_QLSV, DAL_QLSV
+List of compoent/packacge : Gui_QLSV, BUS_QLSV, DTO_QLSV, DAL_QLSV
