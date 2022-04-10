@@ -1,5 +1,6 @@
 # StudentManager
 Student management software
+
 Main function:
 + student management
 + point management
